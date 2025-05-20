@@ -14,14 +14,27 @@ This project performs image classification on the [Intel Image Classification](h
   - `mountain`
   - `sea`
   - `street`
-- **Structure**:
   
- ├── seg_train/
- │ ├── buildings/
- │ ├── forest/
- │ └── ...
- ├── seg_test/
- ├── seg_pred/
+## 📁 Project Structure
+
+<pre>
+project/
+├── data/
+│   ├── raw/
+│   │   ├── seg_train/
+│   │   │   ├── buildings/
+│   │   │   ├── forest/
+│   │   │   ├── glacier/
+│   │   │   ├── mountain/
+│   │   │   ├── sea/
+│   │   │   └── street/
+│   ├── processed/
+├── src/
+│   ├── __init__.py
+│   └── main.py
+├── README.md
+└── requirements.txt
+</pre>
 
 ---
 
@@ -40,7 +53,7 @@ This project performs image classification on the [Intel Image Classification](h
 
 - `intel_image_classification_cnn_keras_majorProject.ipynb`: Full implementation notebook
 - `README.md`: Project overview
-- `requirements.txt`: Python dependencies (if provided)
+- `requirements.txt`: Python dependencies
 
 ---
 
