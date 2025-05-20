@@ -15,6 +15,7 @@ This project performs image classification on the [Intel Image Classification](h
   - `sea`
   - `street`
 - **Structure**:
+  
  ├── seg_train/
  │ ├── buildings/
  │ ├── forest/
