@@ -17,7 +17,7 @@ This project performs image classification on the [Intel Image Classification](h
   
 ## 📁 Project Structure
 
-<pre>''' bash
+<pre>'''
 project/
 ├── data/
 │   ├── raw/
@@ -47,13 +47,6 @@ project/
 - 📊 Performance metrics: Accuracy, loss curves, confusion matrix
 - ✅ Final accuracy improvements via fine-tuning
 
----
-
-## 📌 Project Structure
-
-- `intel_image_classification_cnn_keras_majorProject.ipynb`: Full implementation notebook
-- `README.md`: Project overview
-- `requirements.txt`: Python dependencies
 
 ---
 
