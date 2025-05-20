@@ -17,7 +17,7 @@ This project performs image classification on the [Intel Image Classification](h
   
 ## 📁 Project Structure
 
-<pre>
+<pre>''' bash
 project/
 ├── data/
 │   ├── raw/
@@ -34,7 +34,7 @@ project/
 │   └── main.py
 ├── README.md
 └── requirements.txt
-</pre>
+'''</pre>
 
 ---
 
